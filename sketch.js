@@ -9,8 +9,8 @@ function setup() {
 function draw() 
 {
 
-  // write the code to change background color 
-  // to red when RIGHT_ARROW is pressed
+  // escribir el código para cambiar el color del fondo 
+  // rojo cuando se presiona RIGHT_ARROW (tecla de flecha derecha)
   
   
 
